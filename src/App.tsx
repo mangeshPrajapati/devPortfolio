@@ -22,7 +22,7 @@ const experiences = [
   {
     title: "Software Developer",
     company: "Pascali Technologies",
-    period: "Jun 2024 - Present",
+    period: "Feb 2024 - Mar 2025",
     description:
       "Developed and deployed automation bots to streamline business processes, focusing on database management and client communication. Utilized Docker for containerization, FastAPI for backend development, and Postman for API testing.",
     technologies: [
@@ -37,7 +37,7 @@ const experiences = [
   {
     title: "Customer Service Associate",
     company: "BoB Card",
-    period: " 2023 - Jun 2024",
+    period: " 2023 - 2024",
     description:
       "Handled customer inquiries and provided solutions related to credit card services, utilizing Excel and internal applications for accurate information retrieval.",
   },
@@ -94,15 +94,7 @@ const projects = [
 
 // Skills data
 const skills = {
-  languages: [
-    "JavaScript",
-    "TypeScript",
-    "Python",
-    "C++",
-    "Java",
-    "HTML/CSS",
-    "SQL",
-  ],
+  languages: ["JavaScript", "Python", "C++", "Java", "HTML/CSS", "SQL"],
   frameworks: ["React", "Node.js", "Express"],
   tools: ["Git", "Docker", "Firebase", "MongoDB"],
   other: ["RESTful APIs", "Agile/Scrum"],
