@@ -7,7 +7,7 @@ import calendar from "./images/calendar.png";
 import compiler from "./images/compiler.png";
 import hooks from "./images/hooks.png";
 import self from "./images/self.jpg";
-import admin from "./images/admin-panel.jpg";
+import admin from "./images/admin-panel.png";
 // Navigation links
 const navLinks = [
   { name: "Home", href: "#home" },
