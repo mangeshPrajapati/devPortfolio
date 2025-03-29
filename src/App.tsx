@@ -7,6 +7,7 @@ import calendar from "./images/calendar.png";
 import compiler from "./images/compiler.png";
 import hooks from "./images/hooks.png";
 import self from "./images/self.jpg";
+import admin from "./images/admin-panel.jpg";
 // Navigation links
 const navLinks = [
   { name: "Home", href: "#home" },
@@ -76,10 +77,10 @@ const projects = [
     title: "Product Management Admin Panel",
     description:
       "Admin Panel to manage the products like create, upadate, delete",
-    image: hooks,
+    image: admin,
     technologies: ["NodeJS", "TypeScript", "Angular 10", "Express", "PostgreSQL"],
     liveLink: "https://ecommerce-admin-panel-frontend.onrender.com/",
-    githubLink: "#",
+    githubLink: "https://github.com/mangeshPrajapati/ecommerce-admin-panel-frontend",
   },
   {
     title: "Mini-Calendar",
