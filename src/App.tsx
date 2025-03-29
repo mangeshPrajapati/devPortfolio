@@ -46,24 +46,6 @@ const experiences = [
 
 // Project data
 const projects = [
-  // {
-  //   title: "Ani-Stream",
-  //   description:
-  //     "Developed a full-featured anime streaming website with a Node.js backend and Cheerio for web scraping from anime sites. The frontend was built using React with Vite for fast and responsive user interaction. Deployed the application on Render for seamless accessibility.",
-  //   image: anime,
-  //   technologies: ["Node.js", "Cheerio", "React", "Vite", "Render"],
-  //   liveLink: "https://animestreamforu.onrender.com/",
-  //   githubLink: "https://github.com/mangeshPrajapati/animeStreamBackend",
-  // },
-  // {
-  //   title: "Online Compiler Web App",
-  //   description:
-  //     "Developed a web-based online compiler that supports multiple programming languages, including C, C++, Python, Java, GoLang, and JavaScript. Utilized React.js and Monaco Editor for the frontend and integrated the Codex API for real-time code compilation.",
-  //   image: compiler,
-  //   technologies: ["React.js", "Monaco Editor", "Codex API"],
-  //   liveLink: "https://mangeshprajapati.github.io/codeEditor/",
-  //   githubLink: "https://github.com/mangeshPrajapati/codeLab",
-  // },
   {
     title: "Video Hooks",
     description:
@@ -99,6 +81,24 @@ const projects = [
       "https://mangeshprajapati.github.io/algorithmVisualizer.github.io/",
     githubLink:
       "https://github.com/mangeshPrajapati/algorithmVisualizer.github.io",
+  },
+  {
+    title: "Ani-Stream",
+    description:
+      "Developed a full-featured anime streaming website with a Node.js backend and Cheerio for web scraping from anime sites. The frontend was built using React with Vite for fast and responsive user interaction. Deployed the application on Render for seamless accessibility.",
+    image: anime,
+    technologies: ["Node.js", "Cheerio", "React", "Vite", "Render"],
+    liveLink: "https://animestreamforu.onrender.com/",
+    githubLink: "https://github.com/mangeshPrajapati/animeStreamBackend",
+  },
+  {
+    title: "Online Compiler Web App",
+    description:
+      "Developed a web-based online compiler that supports multiple programming languages, including C, C++, Python, Java, GoLang, and JavaScript. Utilized React.js and Monaco Editor for the frontend and integrated the Codex API for real-time code compilation.",
+    image: compiler,
+    technologies: ["React.js", "Monaco Editor", "Codex API"],
+    liveLink: "https://mangeshprajapati.github.io/codeEditor/",
+    githubLink: "https://github.com/mangeshPrajapati/codeLab",
   },
 ];
 
