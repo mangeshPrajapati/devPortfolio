@@ -45,23 +45,41 @@ const experiences = [
 
 // Project data
 const projects = [
+  // {
+  //   title: "Ani-Stream",
+  //   description:
+  //     "Developed a full-featured anime streaming website with a Node.js backend and Cheerio for web scraping from anime sites. The frontend was built using React with Vite for fast and responsive user interaction. Deployed the application on Render for seamless accessibility.",
+  //   image: anime,
+  //   technologies: ["Node.js", "Cheerio", "React", "Vite", "Render"],
+  //   liveLink: "https://animestreamforu.onrender.com/",
+  //   githubLink: "https://github.com/mangeshPrajapati/animeStreamBackend",
+  // },
+  // {
+  //   title: "Online Compiler Web App",
+  //   description:
+  //     "Developed a web-based online compiler that supports multiple programming languages, including C, C++, Python, Java, GoLang, and JavaScript. Utilized React.js and Monaco Editor for the frontend and integrated the Codex API for real-time code compilation.",
+  //   image: compiler,
+  //   technologies: ["React.js", "Monaco Editor", "Codex API"],
+  //   liveLink: "https://mangeshprajapati.github.io/codeEditor/",
+  //   githubLink: "https://github.com/mangeshPrajapati/codeLab",
+  // },
   {
-    title: "Ani-Stream",
+    title: "Video Hooks",
     description:
-      "Developed a full-featured anime streaming website with a Node.js backend and Cheerio for web scraping from anime sites. The frontend was built using React with Vite for fast and responsive user interaction. Deployed the application on Render for seamless accessibility.",
-    image: anime,
-    technologies: ["Node.js", "Cheerio", "React", "Vite", "Render"],
-    liveLink: "https://animestreamforu.onrender.com/",
-    githubLink: "https://github.com/mangeshPrajapati/animeStreamBackend",
+      "Using web scraping to get video hooks from transitionalhooks site and displaying them on the site and providing download functionality.",
+    image: hooks,
+    technologies: ["NodeJS", "Cheerio", "Axios", "Express", "ReactJS"],
+    liveLink: "https://videohooksforu.onrender.com",
+    githubLink: "#",
   },
   {
-    title: "Online Compiler Web App",
+    title: "Product Management Admin Panel",
     description:
-      "Developed a web-based online compiler that supports multiple programming languages, including C, C++, Python, Java, GoLang, and JavaScript. Utilized React.js and Monaco Editor for the frontend and integrated the Codex API for real-time code compilation.",
-    image: compiler,
-    technologies: ["React.js", "Monaco Editor", "Codex API"],
-    liveLink: "https://mangeshprajapati.github.io/codeEditor/",
-    githubLink: "https://github.com/mangeshPrajapati/codeLab",
+      "Admin Panel to manage the products like create, upadate, delete",
+    image: hooks,
+    technologies: ["NodeJS", "TypeScript", "Angular 10", "Express", "PostgreSQL"],
+    liveLink: "https://ecommerce-admin-panel-frontend.onrender.com/",
+    githubLink: "#",
   },
   {
     title: "Mini-Calendar",
@@ -80,15 +98,6 @@ const projects = [
       "https://mangeshprajapati.github.io/algorithmVisualizer.github.io/",
     githubLink:
       "https://github.com/mangeshPrajapati/algorithmVisualizer.github.io",
-  },
-  {
-    title: "Video Hooks",
-    description:
-      "Using web scraping to get video hooks from transitionalhooks site and displaying them on the site and providing download functionality.",
-    image: hooks,
-    technologies: ["NodeJS", "Cheerio", "Axios", "Express", "ReactJS"],
-    liveLink: "https://videohooksforu.onrender.com",
-    githubLink: "#",
   },
 ];
 
